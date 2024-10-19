@@ -29,9 +29,9 @@ The Sticky Component plugin for SketchUp allows users to attach a selected compo
 
 ### Toolbar Buttons
 
-- ![Select](icons/select.png) Select Component: Choose the component to make sticky.
-- ![Config](icons/config.png) Adjust Configurations: Fine-tune the component's position and behavior.
-- ![Toggle](icons/start.png) Toggle Sticky Component: Start or stop the sticky effect. 
+- Select Component: Choose the component to make sticky.
+- Adjust Configurations: Fine-tune the component's position and behavior.
+- Toggle Sticky Component: Start or stop the sticky effect. 
 
 ### Configuration Options
 
